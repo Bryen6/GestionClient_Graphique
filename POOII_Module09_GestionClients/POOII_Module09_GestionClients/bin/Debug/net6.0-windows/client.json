@@ -1,0 +1,206 @@
+[
+  {
+    "ClientId": "d47b4d2a-cb3d-4876-9045-88105feffd48",
+    "Nom": "Gauthier",
+    "Prenom": "noah",
+    "Adresses": [
+      {
+        "AdresseId": "860e9b5e-147c-4901-83bd-c1158f66e667",
+        "NumeroCivique": 6875,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "des roses",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Alberta",
+        "Pays": "Canada"
+      },
+      {
+        "AdresseId": "703ec3cd-7599-422c-aec5-0bd4a64e5ca9",
+        "NumeroCivique": 3154,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Rang",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Alberta",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "8e3d3492-e41d-495f-a6f9-416836786ed5",
+        "NumeroCivique": 2749,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "du pommier",
+        "TypeVoie": "Rang",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Ontario",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "9159bd70-663a-4612-badb-f4925984a383",
+        "NumeroCivique": 110,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G5X 1X5",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Alberta",
+        "Pays": "Canada"
+      },
+      {
+        "AdresseId": "16c548a3-6bc0-409d-911a-132e20e0616f",
+        "NumeroCivique": 3760,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "du pommier",
+        "TypeVoie": "Rue",
+        "CodePostal": "G5X 1X5",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Saskatchewan",
+        "Pays": "USA"
+      }
+    ]
+  },
+  {
+    "ClientId": "f9b93b07-540c-4522-bd59-4d61d7e67ed0",
+    "Nom": "Roy",
+    "Prenom": "charlotte",
+    "Adresses": [
+      {
+        "AdresseId": "9ea8ca7b-0c3e-4375-b5d3-514118f7681a",
+        "NumeroCivique": 2000,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "des roses",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Quebec",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "cfac1b53-10c1-4f7c-a793-f38d761f0649",
+        "NumeroCivique": 983,
+        "InformationComplementaire": "route dangereuse",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Rue",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Quebec",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "b451aa12-b690-4a2d-8f8c-5550fb0b0c04",
+        "NumeroCivique": 5678,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Quebec",
+        "Pays": "France"
+      }
+    ]
+  },
+  {
+    "ClientId": "187c9d32-addc-4df5-afbb-798493d58768",
+    "Nom": "Bergeron",
+    "Prenom": "thomas",
+    "Adresses": [
+      {
+        "AdresseId": "d1896307-c24d-441c-9992-cc4c9aeebb45",
+        "NumeroCivique": 563,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Ontario",
+        "Pays": "Canada"
+      },
+      {
+        "AdresseId": "66f0fc54-32eb-4bb6-aa38-86e6e6cf21ff",
+        "NumeroCivique": 75,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Rue",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Quebec",
+        "Pays": "Canada"
+      },
+      {
+        "AdresseId": "9687622b-dcd9-43ad-8e33-0741de7aaaa6",
+        "NumeroCivique": 8405,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "du pommier",
+        "TypeVoie": "Rue",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Quebec",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "beb8b03b-f07d-43d9-933e-f7f8ab814a06",
+        "NumeroCivique": 6721,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "du pommier",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Ontario",
+        "Pays": "Russie"
+      }
+    ]
+  },
+  {
+    "ClientId": "847cfd5d-c3df-4872-8cdc-05f386c058fb",
+    "Nom": "Fortin",
+    "Prenom": "alice",
+    "Adresses": [
+      {
+        "AdresseId": "99675f00-5629-4bee-bf57-0688b0bdb312",
+        "NumeroCivique": 657,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Rue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Saskatchewan",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "1d01f4c2-d82f-482f-9722-21facb79e156",
+        "NumeroCivique": 7435,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Alberta",
+        "Pays": "Russie"
+      },
+      {
+        "AdresseId": "8f48298f-e8bc-4b66-8102-8aea49eb29de",
+        "NumeroCivique": 3,
+        "InformationComplementaire": "route dangereuse",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Avenue",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Quebec",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "68e9b1e0-a6af-4a7e-be33-043616fb700f",
+        "NumeroCivique": 6635,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "des roses",
+        "TypeVoie": "Rue",
+        "CodePostal": "G5X 1X5",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Saskatchewan",
+        "Pays": "Canada"
+      }
+    ]
+  }
+]

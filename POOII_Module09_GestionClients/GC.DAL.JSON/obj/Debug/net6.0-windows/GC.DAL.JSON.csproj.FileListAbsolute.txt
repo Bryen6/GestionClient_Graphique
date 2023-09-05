@@ -1,0 +1,30 @@
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.DAL.JSON.deps.json
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.DAL.JSON.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.DAL.JSON.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.Entites.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.Entites.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.csproj.AssemblyReference.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.AssemblyInfoInputs.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.AssemblyInfo.cs
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.csproj.CoreCompileInputs.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.csproj.CopyComplete
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\refint\GC.DAL.JSON.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.DAL.JSON\obj\Debug\net6.0-windows\ref\GC.DAL.JSON.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.DAL.JSON.deps.json
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.DAL.JSON.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.DAL.JSON.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.Entites.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\bin\Debug\net6.0-windows\GC.Entites.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.csproj.AssemblyReference.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.AssemblyInfoInputs.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.AssemblyInfo.cs
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.csproj.CoreCompileInputs.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.csproj.CopyComplete
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\refint\GC.DAL.JSON.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\GC.DAL.JSON.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.DAL.JSON\obj\Debug\net6.0-windows\ref\GC.DAL.JSON.dll

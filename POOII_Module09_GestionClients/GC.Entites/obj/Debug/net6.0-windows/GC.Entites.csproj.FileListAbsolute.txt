@@ -1,0 +1,24 @@
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\bin\Debug\net6.0-windows\GC.Entites.deps.json
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\bin\Debug\net6.0-windows\GC.Entites.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\bin\Debug\net6.0-windows\GC.Entites.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.csproj.AssemblyReference.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.AssemblyInfoInputs.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.AssemblyInfo.cs
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.csproj.CoreCompileInputs.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\refint\GC.Entites.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Entites\obj\Debug\net6.0-windows\ref\GC.Entites.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\bin\Debug\net6.0-windows\GC.Entites.deps.json
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\bin\Debug\net6.0-windows\GC.Entites.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\bin\Debug\net6.0-windows\GC.Entites.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.csproj.AssemblyReference.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.AssemblyInfoInputs.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.AssemblyInfo.cs
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.csproj.CoreCompileInputs.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\refint\GC.Entites.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\GC.Entites.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Entites\obj\Debug\net6.0-windows\ref\GC.Entites.dll

@@ -1,0 +1,71 @@
+[
+  {
+    "ClientId": "929574db-0512-42db-a135-7413f1e9eb74",
+    "Nom": "Roy",
+    "Prenom": "olivia",
+    "Adresses": [
+      {
+        "AdresseId": "2909d9ef-80eb-40d6-8453-086916c124d0",
+        "NumeroCivique": 7605,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Ontario",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "0311f692-43db-44f3-9e0f-d71308c7e7e1",
+        "NumeroCivique": 368,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "du pommier",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Quebec",
+        "Pays": "Canada"
+      },
+      {
+        "AdresseId": "f2efc87c-2fb4-4068-a658-e33983bb4ec0",
+        "NumeroCivique": 9413,
+        "InformationComplementaire": "route dangereuse",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Rang",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Saskatchewan",
+        "Pays": "Russie"
+      },
+      {
+        "AdresseId": "2d9b5c95-2692-4580-84cf-e403abe994f0",
+        "NumeroCivique": 3452,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Ontario",
+        "Pays": "USA"
+      }
+    ]
+  },
+  {
+    "ClientId": "6a985c5c-32b6-4de6-9751-0fefc074de84",
+    "Nom": "Gagnon",
+    "Prenom": "léo",
+    "Adresses": [
+      {
+        "AdresseId": "768aae36-8a3b-4a41-a22a-6254de698f68",
+        "NumeroCivique": 9228,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Saskatchewan",
+        "Pays": "Russie"
+      }
+    ]
+  }
+]

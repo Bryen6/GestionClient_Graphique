@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOtuK7s0P1q/HT27Ohptk5y6wpQ9KAuPns6aYg45jdE6QmdPQ5WU+lT8GS9U+RPwUb2ZaJXmeYC2yksKbEySKg==",
+  "success": true,
+  "projectFilePath": "C:\\POO_ram_4\\POOII_Module09_GestionClients\\GC.DAL.JSON\\GC.DAL.JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

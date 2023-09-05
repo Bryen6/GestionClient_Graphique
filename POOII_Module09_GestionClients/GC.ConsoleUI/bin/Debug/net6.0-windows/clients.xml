@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ClientId>9d8034a4-61da-4462-9bf6-6ff72db0b082</ClientId>
+    <Nom>Gagné</Nom>
+    <Prenom>charlotte</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>f8c149c2-22e2-422f-ab0a-c0eeb5a8fbfe</AdresseId>
+        <NumeroCivique>4278</NumeroCivique>
+        <InformationComplementaire>route dangereuse</InformationComplementaire>
+        <Odonyme>des roses</Odonyme>
+        <TypeVoie>Rang</TypeVoie>
+        <CodePostal>G5X 1X5</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Alberta</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+  <Client>
+    <ClientId>1d1cce88-137f-47e4-bf04-b71a0e71fcb2</ClientId>
+    <Nom>Tremblay</Nom>
+    <Prenom>thomas</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>c8070589-c0c8-478c-8893-8b5ca195578d</AdresseId>
+        <NumeroCivique>3587</NumeroCivique>
+        <InformationComplementaire>belle route asphaltée</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Boulevard</TypeVoie>
+        <CodePostal>G3D G6X</CodePostal>
+        <NomMunicipalite>St-Georges</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>159fa532-a61f-469f-9f82-efd9b76352b9</AdresseId>
+        <NumeroCivique>6768</NumeroCivique>
+        <InformationComplementaire>route dangereuse</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Boulevard</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>St-Georges</NomMunicipalite>
+        <Etat>Alberta</Etat>
+        <Pays>France</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>431fe214-26e3-4a11-a47a-e414e39e0fe4</AdresseId>
+        <NumeroCivique>6704</NumeroCivique>
+        <InformationComplementaire>route dangereuse</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Rang</TypeVoie>
+        <CodePostal>GX8 2P2</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Quebec</Etat>
+        <Pays>Russie</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>c3efc052-cd98-4538-b3ef-3e76927ca6ed</AdresseId>
+        <NumeroCivique>7373</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>des roses</Odonyme>
+        <TypeVoie>Rang</TypeVoie>
+        <CodePostal>G5X 1X5</CodePostal>
+        <NomMunicipalite>Ste-Foy</NomMunicipalite>
+        <Etat>Quebec</Etat>
+        <Pays>Russie</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>c7ae3171-8b03-4f4e-8c0e-8d3fe1b775d6</AdresseId>
+        <NumeroCivique>3434</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>des perchaudes</Odonyme>
+        <TypeVoie>Boulevard</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>Ste-Foy</NomMunicipalite>
+        <Etat>Ontario</Etat>
+        <Pays>USA</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+  <Client>
+    <ClientId>94bfea54-3af5-4bad-92f7-2ab9b6c673eb</ClientId>
+    <Nom>Gagnon</Nom>
+    <Prenom>léo</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>30568ef3-6137-45e4-b2f0-879348ef3118</AdresseId>
+        <NumeroCivique>6465</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>G3D G6X</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Alberta</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+  <Client>
+    <ClientId>9f318067-a508-467d-aa1b-f032fe69b11d</ClientId>
+    <Nom>Lavoie</Nom>
+    <Prenom>emma</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>7cd091ff-8100-4d85-944e-63c3a28aac71</AdresseId>
+        <NumeroCivique>9955</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Rang</TypeVoie>
+        <CodePostal>G5X 1X5</CodePostal>
+        <NomMunicipalite>Ste-Foy</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>07f7f429-c2d3-4bd5-84bb-7fa1605b6b3b</AdresseId>
+        <NumeroCivique>9638</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>GX8 2P2</CodePostal>
+        <NomMunicipalite>Ste-Foy</NomMunicipalite>
+        <Etat>Alberta</Etat>
+        <Pays>France</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>cd4e7d95-527c-4f87-ae42-dc06cdd69dde</AdresseId>
+        <NumeroCivique>4482</NumeroCivique>
+        <InformationComplementaire>route dangereuse</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Boulevard</TypeVoie>
+        <CodePostal>GX8 2P2</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Quebec</Etat>
+        <Pays>France</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>62b2850f-7194-42b0-bb5f-a615de3d0ae9</AdresseId>
+        <NumeroCivique>2130</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>G5X 1X5</CodePostal>
+        <NomMunicipalite>Beauceville</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>Russie</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>c871a91f-7e00-4246-8961-4b590b074cd4</AdresseId>
+        <NumeroCivique>7362</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Rang</TypeVoie>
+        <CodePostal>GX8 2P2</CodePostal>
+        <NomMunicipalite>Beauceville</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+  <Client>
+    <ClientId>eebc7895-2abc-45b6-9aef-0cef93ba8cf8</ClientId>
+    <Nom>Gagné</Nom>
+    <Prenom>emma</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>eedd176e-3f4c-41e3-9351-50d86ee7bc4d</AdresseId>
+        <NumeroCivique>47</NumeroCivique>
+        <InformationComplementaire>belle route asphaltée</InformationComplementaire>
+        <Odonyme>des roses</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>G3D G6X</CodePostal>
+        <NomMunicipalite>St-Georges</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>USA</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>6f339bba-22f7-4931-9c9e-291658c7b72b</AdresseId>
+        <NumeroCivique>6517</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>des roses</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>St-Georges</NomMunicipalite>
+        <Etat>Quebec</Etat>
+        <Pays>France</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+</ArrayOfClient>

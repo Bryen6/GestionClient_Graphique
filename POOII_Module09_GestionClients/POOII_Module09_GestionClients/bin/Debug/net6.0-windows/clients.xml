@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ClientId>e252605f-65c7-4d81-b6a0-a38852ea87cd</ClientId>
+    <Nom>Pelletier</Nom>
+    <Prenom>emma</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>ab3019ba-00e9-4583-89bc-5d84233aff12</AdresseId>
+        <NumeroCivique>5658</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>G5X 1X5</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Ontario</Etat>
+        <Pays>USA</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>767c7457-5e61-4b75-aa29-6c060b120903</AdresseId>
+        <NumeroCivique>3746</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>des roses</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>Beauceville</NomMunicipalite>
+        <Etat>Alberta</Etat>
+        <Pays>Russie</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>af9121a4-0011-45fb-94ba-47e76c85068c</AdresseId>
+        <NumeroCivique>8081</NumeroCivique>
+        <InformationComplementaire>belle route asphaltée</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Rue</TypeVoie>
+        <CodePostal>G5X 1X5</CodePostal>
+        <NomMunicipalite>St-Georges</NomMunicipalite>
+        <Etat>Quebec</Etat>
+        <Pays>France</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+</ArrayOfClient>

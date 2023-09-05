@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "whnY1/PiNcdlIUNBSIryXZLu+P6cK4WZImB09KTigQccY9m/wGyYiPpSL90lptfGVUkgLJR3kyWsdjP1zn/WPg==",
+  "success": true,
+  "projectFilePath": "C:\\POO_ram_4\\POOII_Module09_GestionClients\\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.7\\microsoft.extensions.configuration.fileextensions.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.7\\microsoft.extensions.configuration.json.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.7\\microsoft.extensions.fileproviders.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.7\\microsoft.extensions.fileproviders.physical.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.7\\microsoft.extensions.filesystemglobbing.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\bryen\\.nuget\\packages\\unity\\5.11.7\\unity.5.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

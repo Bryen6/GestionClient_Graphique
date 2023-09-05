@@ -1,0 +1,202 @@
+[
+  {
+    "ClientId": "cf460a1e-61ba-4cf6-a0df-b9531adde21e",
+    "Nom": "Tremblay",
+    "Prenom": "charlie",
+    "Adresses": [
+      {
+        "AdresseId": "4cd5bbbb-cf5e-4ece-8408-2fdb2cebd755",
+        "NumeroCivique": 1552,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "des roses",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Ontario",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "816c539c-d5e6-40e8-98c0-83c67e85df9a",
+        "NumeroCivique": 9876,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Rue",
+        "CodePostal": "G6X 2X4",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Ontario",
+        "Pays": "Russie"
+      },
+      {
+        "AdresseId": "10927e65-1f53-4085-b6eb-755ff22a9921",
+        "NumeroCivique": 5102,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Rue",
+        "CodePostal": "G5X 1X5",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Ontario",
+        "Pays": "Russie"
+      },
+      {
+        "AdresseId": "72b6a0f9-6b5d-46cd-9763-f6545ad0edc2",
+        "NumeroCivique": 9725,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Rue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Alberta",
+        "Pays": "Russie"
+      }
+    ]
+  },
+  {
+    "ClientId": "2ceca9c8-7b7f-4593-9f02-5f2a9081d33d",
+    "Nom": "Lavoie",
+    "Prenom": "alice",
+    "Adresses": [
+      {
+        "AdresseId": "5f3dff2e-c7a1-419e-8c42-43cc22f424ba",
+        "NumeroCivique": 7475,
+        "InformationComplementaire": "route dangereuse",
+        "Odonyme": "des roses",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G5X 1X5",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Ontario",
+        "Pays": "France"
+      }
+    ]
+  },
+  {
+    "ClientId": "d9331bb5-01aa-461b-a0a8-911a7c28b937",
+    "Nom": "Pelletier",
+    "Prenom": "charlotte",
+    "Adresses": [
+      {
+        "AdresseId": "eb12736f-d2df-4865-a3e6-eebb848f9853",
+        "NumeroCivique": 2224,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "des roses",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G5X 1X5",
+        "NomMunicipalite": "St-Georges",
+        "Etat": "Saskatchewan",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "01d0d1c4-a894-46c6-8f97-8a20e68d8380",
+        "NumeroCivique": 3418,
+        "InformationComplementaire": "route dangereuse",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Quebec",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "cf6e0a37-0399-40d9-bb35-751f5ba15030",
+        "NumeroCivique": 5802,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "des roses",
+        "TypeVoie": "Rang",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Ontario",
+        "Pays": "USA"
+      },
+      {
+        "AdresseId": "572bae7c-1610-448a-8178-ba4b263ee4b8",
+        "NumeroCivique": 8376,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Rue",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Alberta",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "6d3b38c3-1bf5-4e79-a8f4-762740df25ec",
+        "NumeroCivique": 475,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "du pommier",
+        "TypeVoie": "Rue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Alberta",
+        "Pays": "France"
+      }
+    ]
+  },
+  {
+    "ClientId": "a29d3b37-3d05-431c-b100-af51ab6236d4",
+    "Nom": "Côté",
+    "Prenom": "olivia",
+    "Adresses": [
+      {
+        "AdresseId": "3d78a667-48ff-492f-b517-fb91ed2b5cf0",
+        "NumeroCivique": 8393,
+        "InformationComplementaire": "rang de terre",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Quebec",
+        "Etat": "Quebec",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "c50d8f66-d612-4d58-b461-8cda670c8819",
+        "NumeroCivique": 6212,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Alberta",
+        "Pays": "Russie"
+      },
+      {
+        "AdresseId": "d8b58b4f-d554-43b0-95a9-6cf735132260",
+        "NumeroCivique": 3213,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "des roses",
+        "TypeVoie": "Avenue",
+        "CodePostal": "GX8 2P2",
+        "NomMunicipalite": "Beauceville",
+        "Etat": "Ontario",
+        "Pays": "Canada"
+      }
+    ]
+  },
+  {
+    "ClientId": "0fc05df5-c5ea-4497-a0d8-12bad4fae40d",
+    "Nom": "Roy",
+    "Prenom": "liam",
+    "Adresses": [
+      {
+        "AdresseId": "453a9183-12e0-44fe-851d-f61196ac8310",
+        "NumeroCivique": 5516,
+        "InformationComplementaire": "rang de gravelle",
+        "Odonyme": "de la grande route",
+        "TypeVoie": "Avenue",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Alberta",
+        "Pays": "France"
+      },
+      {
+        "AdresseId": "cc761656-f432-4e04-9de3-db88450902ef",
+        "NumeroCivique": 3637,
+        "InformationComplementaire": "belle route asphaltée",
+        "Odonyme": "des perchaudes",
+        "TypeVoie": "Boulevard",
+        "CodePostal": "G3D G6X",
+        "NomMunicipalite": "Ste-Foy",
+        "Etat": "Saskatchewan",
+        "Pays": "Russie"
+      }
+    ]
+  }
+]

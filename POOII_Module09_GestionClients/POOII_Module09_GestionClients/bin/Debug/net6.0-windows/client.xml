@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ClientId>dd4a7d81-ca34-429d-8069-36226a6bd24e</ClientId>
+    <Nom>Fortin</Nom>
+    <Prenom>thomas</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>d6b5249f-a232-452e-a229-62f66f065fc8</AdresseId>
+        <NumeroCivique>8067</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Avenue</TypeVoie>
+        <CodePostal>GX8 2P2</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+  <Client>
+    <ClientId>6cffcada-33a7-416e-95ff-c1de83a3389d</ClientId>
+    <Nom>Bergeron</Nom>
+    <Prenom>charlie</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>7330fbf0-d2df-4eed-8d5e-c16060da48d5</AdresseId>
+        <NumeroCivique>5733</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Rang</TypeVoie>
+        <CodePostal>GX8 2P2</CodePostal>
+        <NomMunicipalite>Ste-Foy</NomMunicipalite>
+        <Etat>Ontario</Etat>
+        <Pays>Russie</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>0f7d80a4-893c-445d-bee0-9ede1c0ded5a</AdresseId>
+        <NumeroCivique>9364</NumeroCivique>
+        <InformationComplementaire>belle route asphaltée</InformationComplementaire>
+        <Odonyme>des perchaudes</Odonyme>
+        <TypeVoie>Rue</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>St-Georges</NomMunicipalite>
+        <Etat>Quebec</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+      <Adresse>
+        <AdresseId>3667ee5f-5c2e-499c-b9a9-5aa7c54d634d</AdresseId>
+        <NumeroCivique>8024</NumeroCivique>
+        <InformationComplementaire>rang de terre</InformationComplementaire>
+        <Odonyme>de la grande route</Odonyme>
+        <TypeVoie>Boulevard</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>Ste-Foy</NomMunicipalite>
+        <Etat>Saskatchewan</Etat>
+        <Pays>France</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+  <Client>
+    <ClientId>a571c3c5-96e1-490c-86bf-d9e66b571382</ClientId>
+    <Nom>Morin</Nom>
+    <Prenom>thomas</Prenom>
+    <Adresses>
+      <Adresse>
+        <AdresseId>a1580044-24ee-4167-964f-ccbd77d690be</AdresseId>
+        <NumeroCivique>7083</NumeroCivique>
+        <InformationComplementaire>rang de gravelle</InformationComplementaire>
+        <Odonyme>du pommier</Odonyme>
+        <TypeVoie>Rue</TypeVoie>
+        <CodePostal>G6X 2X4</CodePostal>
+        <NomMunicipalite>Quebec</NomMunicipalite>
+        <Etat>Ontario</Etat>
+        <Pays>Canada</Pays>
+      </Adresse>
+    </Adresses>
+  </Client>
+</ArrayOfClient>

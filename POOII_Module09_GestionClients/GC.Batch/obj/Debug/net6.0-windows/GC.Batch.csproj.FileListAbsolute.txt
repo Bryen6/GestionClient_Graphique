@@ -1,0 +1,12 @@
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\bin\Debug\net6.0-windows\GC.Batch.deps.json
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\bin\Debug\net6.0-windows\GC.Batch.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\bin\Debug\net6.0-windows\GC.Batch.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.csproj.AssemblyReference.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.AssemblyInfoInputs.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.AssemblyInfo.cs
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.csproj.CoreCompileInputs.cache
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\refint\GC.Batch.dll
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\GC.Batch.pdb
+C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch\obj\Debug\net6.0-windows\ref\GC.Batch.dll
