@@ -98,9 +98,10 @@ namespace GC.DAL.XML
 
         public List<Client> RechercherClients(string p_informationPartielle)
         {
+            p_informationPartielle = p_informationPartielle.Trim().ToLower();
             List<Client> clientsFiltres = this.ListerClients()
-                .Where(client => client.Nom.Contains(p_informationPartielle) ||
-                        client.Prenom.Contains(p_informationPartielle))
+                .Where(client => client.Nom.ToLower().Contains(p_informationPartielle) ||
+                        client.Prenom.ToLower().Contains(p_informationPartielle))
                         .ToList();
             return clientsFiltres;
         }
