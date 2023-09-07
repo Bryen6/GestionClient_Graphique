@@ -95,5 +95,14 @@ namespace GC.DAL.XML
                 .Where(client => client.ClientId == p_clientId)
                 .Select(cDTO => cDTO.VersEntite()).SingleOrDefault();
         }
-    }
+
+        public List<Client> RechercherClients(string p_informationPartielle)
+        {
+            List<Client> clientsFiltres = this.ListerClients()
+                .Where(client => client.Nom.Contains(p_informationPartielle) ||
+                        client.Prenom.Contains(p_informationPartielle))
+                        .ToList();
+            return clientsFiltres;
+        }
+    }
 }

@@ -24,7 +24,9 @@ namespace GC.DAL.JSON.DTO
 
         public Client VersEntite()
         {
-            List<Adresse> adresses = this.Adresses.Select(aDTO => aDTO.VersEntite()).ToList();
+            List<Adresse> adresses = this.Adresses != null
+                ? this.Adresses.Select(aDTO => aDTO.VersEntite()).ToList()
+                : new List<Adresse>();
 
             return new Client(this.ClientId, this.Nom, this.Prenom, adresses);
         }

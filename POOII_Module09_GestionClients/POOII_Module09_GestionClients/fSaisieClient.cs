@@ -14,17 +14,19 @@ namespace POOII_Module09_GestionClients
 {
     public partial class fSaisieClient : Form
     {
-        private Client m_client;       // la valeur est nulle si la fenêtre va servir pour saisir un nouveau client, non nulle si c'est pour modifier un client existant
-        private bool m_nouveau => m_client == null;     // renvoie vrai si la fenêtre est utilisée pour créer un nouveau client, faux sinon (Indice : dépend de la valeur de la propriété "Client")
-        private Client m_resultat { get; set; }     // servira à contenir la nouvelle valeur d'un client si l'utilisateur clique sur "Enregistrer"
+        private Client? m_client;
+        private bool m_nouveau => m_client == null;
+        
+        private Client m_resultat; 
 
-
-        public fSaisieClient()
+        public Client Resultat
         {
-            InitializeComponent();
+            get { return m_resultat; } 
+            private set {  m_resultat = value; }
         }
 
-        public fSaisieClient(Client p_client)
+
+        public fSaisieClient(Client? p_client)
         {
             m_client = p_client;
             InitializeComponent();
@@ -33,9 +35,33 @@ namespace POOII_Module09_GestionClients
         private void fSaisieClient_Load(object sender, EventArgs e)
         {
             ChangerTitreDefSaisieClient();
+            ModifierValeurTextbox();
         }
 
-        void ChangerTitreDefSaisieClient()
+        private void bEnregistrer_Click(object sender, EventArgs e)
+        {
+            Client clientAEnregistrer;
+            if (m_nouveau)
+            {
+                clientAEnregistrer = new Client(Guid.NewGuid(), textBox_nom.Text, textBox_prenom.Text);
+            }
+            else
+            {
+                clientAEnregistrer = new Client(m_client.ClientId, textBox_nom.Text, textBox_prenom.Text);
+            }
+            this.m_resultat = clientAEnregistrer;
+        }
+
+        private void ModifierValeurTextbox()
+        {
+            if (!m_nouveau)
+            {
+                this.textBox_nom.Text = m_client.Nom;
+                this.textBox_prenom.Text = m_client.Prenom;
+            }
+        }
+
+        private void ChangerTitreDefSaisieClient()
         {
             if (m_nouveau)
             {
@@ -47,9 +73,5 @@ namespace POOII_Module09_GestionClients
             }
         }
 
-        private void bEnregistrer_Click(object sender, EventArgs e)
-        {
-            new Client(Guid.NewGuid(),textBox_nom.Text,textBox_prenom.Text, GenerateurDonnees.GenererAdresseAleatoire());
-        }
     }
 }

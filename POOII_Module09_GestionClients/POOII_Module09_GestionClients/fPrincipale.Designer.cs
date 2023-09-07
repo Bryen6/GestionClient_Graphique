@@ -46,6 +46,7 @@
             listBox_fprincipale.Name = "listBox_fprincipale";
             listBox_fprincipale.Size = new Size(708, 344);
             listBox_fprincipale.TabIndex = 0;
+            listBox_fprincipale.DoubleClick += new EventHandler(listBox_fprincipale_DoubleClick);
             // 
             // btn_nouveau
             // 
@@ -71,7 +72,6 @@
             label1.Size = new Size(130, 20);
             label1.TabIndex = 2;
             label1.Text = "Recherche clients :";
-            label1.Click += label1_Click;
             // 
             // textBox1
             // 
@@ -84,6 +84,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(450, 30);
             textBox1.TabIndex = 3;
+            textBox1.TextChanged += new EventHandler(textBox1_TextChanged);
             // 
             // fPrincipale
             // 

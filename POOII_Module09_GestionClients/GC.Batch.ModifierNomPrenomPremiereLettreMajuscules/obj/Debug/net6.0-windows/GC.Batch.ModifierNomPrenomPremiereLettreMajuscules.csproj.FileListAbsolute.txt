@@ -34,3 +34,39 @@ C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOI
 C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.pdb
 C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.genruntimeconfig.cache
 C:\Session 3\POO 2\Solution\POOII_Module08_GestionClients_SolutionPartielle\POOII_Module08_GestionClients_SolutionPartielle\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\ref\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\appsettings.json
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.exe
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.deps.json
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.runtimeconfig.json
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Unity.Abstractions.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\Unity.Container.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.DAL.JSON.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.DAL.XML.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Entites.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Batch.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.DAL.JSON.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.DAL.XML.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\bin\Debug\net6.0-windows\GC.Entites.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.csproj.AssemblyReference.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.AssemblyInfoInputs.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.AssemblyInfo.cs
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.csproj.CoreCompileInputs.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.csproj.CopyComplete
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\refint\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.dll
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.pdb
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.genruntimeconfig.cache
+C:\POO_ram_4\POOII_Module09_GestionClients\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules\obj\Debug\net6.0-windows\ref\GC.Batch.ModifierNomPrenomPremiereLettreMajuscules.dll

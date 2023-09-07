@@ -9,5 +9,6 @@ namespace GC.Entites
         List<Client> ListerClients();
         Client RechercherClient(Guid p_guid);
         void ModifierClient(Client p_client);
+        List<Client> RechercherClients(string p_informationPartielle);
     }
 }

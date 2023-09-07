@@ -5,7 +5,7 @@ using System;                           //copier collé
 using System.Collections.Generic;       //copier collé
 using System.Linq;                      //copier collé
 
-namespace GC.ConsoleUI
+namespace POOII_Module09_GestionClients
 {
     // Code adapté du code de Paul Vachon
     public class GenerateurDonnees
